@@ -1,5 +1,4 @@
-*venv/*
+*venv/* *強制執行 後*忽略資料夾所有file
 *.idea/*
 *Maze/__pycache__/*
 *Maze/src/__pycache__/*
-Read.md

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="12" height="12" tilewidth="50" tileheight="50" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="map" tilewidth="50" tileheight="50" tilecount="12" columns="4">
+  <image source="map.png" width="200" height="150"/>
+ </tileset>
+ <layer id="1" name="圖塊層 1" width="12" height="12">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,
+0,2,2,2,2,2,2,0,0,0,0,0,
+0,2,0,0,0,0,2,0,2,2,2,2,
+0,2,0,5,5,5,2,0,0,0,0,2,
+0,2,0,0,0,0,0,0,0,1,0,2,
+0,2,0,0,1,0,7,7,0,1,0,2,
+0,2,0,0,1,0,0,0,0,1,0,2,
+0,2,0,0,1,1,0,0,0,1,0,2,
+0,2,0,0,0,1,1,1,1,1,0,2,
+0,2,0,0,0,6,6,6,6,0,0,2,
+0,0,0,7,0,0,0,0,0,0,0,2,
+0,0,0,7,7,7,7,7,7,7,7,7
+</data>
+ </layer>
+</map>
